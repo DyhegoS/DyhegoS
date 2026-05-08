@@ -1,29 +1,21 @@
+<div>
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h1 align="center">About me</h1>
 
 ###
 
-<p align="left">I'm Dyhego, 35 years old, from São Paulo, Brazil. I'm a student of backend development with Java/SpringBoot.</p>
-
-###
-
-<h1 align="center">Stats</h1>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DyhegoS/DyhegoS/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/DyhegoS/DyhegoS/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">I'm Dyhego, 35 years old, from São Paulo, Brazil. I'm a student of fullstack development.</p>
 
 ###
 
 <h1 align="center">Techs</h1>
 
+
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
@@ -33,6 +25,8 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -47,6 +41,5 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  
 </div>
-
-###
